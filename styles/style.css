@@ -2,4 +2,36 @@ body {
     background: #eeeeee;
     font-family: Arial, sans-serif;
     box-sizing: border-box;
+    margin: 2em;
+}
+
+.red-text {
+    color: darkred;
+}
+
+.small-text {
+    font-size: smaller;
+}
+
+h1,
+h2,
+h3 {
+    background-color: lightblue;
+    padding: 10px 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    border: 1px solid black;
+}
+
+button {
+    padding: 5px 10px;
+    border: 1px solid black;
+    font-size: medium;
 }
